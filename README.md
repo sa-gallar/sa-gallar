@@ -11,7 +11,7 @@
 | :--- | :--- |
 | **Бизнес-анализ (BA)** | User Stories, Use Cases, Сбор и фиксация требований, ТЗ |
 | **Системный анализ (SA)** | Декомпозиция задач, Проектирование логики, Постановка задач разработке |
-| **Нотации и Диаграммы** | ![BPMN] (https://shields.io) ![UML] (https://shields.io) (Activity, Sequence, Use Case) |
+| **Нотации и Диаграммы** | ![BPMN](https://shields.io) ![UML](https://shields.io) (Activity, Sequence, Use Case) |
 | **Инструменты моделирования** | ![PlantUML](https://shields.io) ![Draw.io](https://shields.io) |
 | **Управление и Документация**| ![Jira](https://shields.io) ![Confluence](https://shields.io) Markdown |
 | **Prompt Engineering** | Few-shot, Chain-of-Thought, проектирование системных промптов для генерации артефактов аналитики |

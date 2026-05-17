@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет! Я cистемный и бизнес-аналитик | Prompt Engineer 🚀
 
-<!--
-**sa-gallar/sa-gallar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я помогаю бизнесу формулировать требования, а разработке — получать понятные, строгие и структурированные технические задания. Использую возможности ИИ (Prompt Engineering) для ускорения проектирования и автоматизации рутины в аналитике.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Мой технологический стек и инструменты
+
+
+| Направление | Инструменты и технологии |
+| :--- | :--- |
+| **Бизнес-анализ (BA)** | User Stories, Use Cases, Сбор и фиксация требований, ТЗ |
+| **Системный анализ (SA)** | Декомпозиция задач, Проектирование логики, Постановка задач разработке |
+| **Нотации и Диаграммы** | ![BPMN](https://shields.io) ![UML](https://shields.io) (Activity, Sequence, Use Case) |
+| **Инструменты моделирования** | ![PlantUML](https://shields.io) ![Draw.io](https://shields.io) |
+| **Управление и Документация**| ![Jira](https://shields.io) ![Confluence](https://shields.io) Markdown |
+| **Prompt Engineering** | Few-shot, Chain-of-Thought, проектирование системных промптов для генерации артефактов аналитики |
+
+---
+
+### 📂 Моё портфолио (Пет-проекты)
+
+* 🤖 **[Библиотека промптов для аналитика]** *(Скоро здесь будет ссылка)* — Моя авторская база продвинутых промптов для генерации User Stories, декомпозиции эпиков и ревью требований с помощью LLM.
+* 📄 **[Пример пакета требований и диаграмм]** *(Скоро здесь будет ссылка)* — Демонстрационный проект с примерами документации, выполненный по стандартам индустрии (спецификации, BPMN/UML через PlantUML).
+
+---
+
+### 📫 Как со мной связаться
+* **Email:** gallar69@gmail.com
+* **Telegram:** gallar69
